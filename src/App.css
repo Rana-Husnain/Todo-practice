@@ -1,0 +1,19 @@
+.App {
+
+  text-align: center;
+}
+.inputField{
+  text-align: center;
+}
+.displayDiv{
+  display: flex;
+  width: 60%;
+  justify-content: space-between;
+  margin: 0px auto;
+  margin-top: 20px;
+
+}
+p{
+  border: 1px solid black;
+}
+
